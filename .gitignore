@@ -1,8 +1,0 @@
-#ignorar la carpeta node_modules
-node_modules
-
-#inorar el package-lock.json
-package-lock.json
-
-#ignora archivos swl sistema MAC
-.DS_store
